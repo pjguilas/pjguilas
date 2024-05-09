@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjguilas
 - 👀 I’m interested in technology, video games, and programing
 
-- 🌱 I’m currently learning comptia a+, sec+ , and pyhton
+- 🌱 I’m currently learning comptia a+, sec+ , and python
   
 - 💞️ I’m looking to collaborate on beginner project just to practice and improve my skills
   
